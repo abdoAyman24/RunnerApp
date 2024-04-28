@@ -1,16 +1,21 @@
-# runner
+# runner App
 
-A new Flutter project.
+# about
+Runner by flutter and Getx PageController  
 
-## Getting Started
+- [🖥] # Deal With 🖥
+- [x] Deal With GetX
+- [x] Deal shared_preferences
 
-This project is a starting point for a Flutter application.
+## Benfit👻
+- [🖥] # Screens 🖥
 
-A few resources to get you started if this is your first Flutter project:
+# Login Sceen 
+|<img src="snapshot/Login.jpg" width="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# RunnerScreen 
+|<img src="snapshot/RunnerScreen.jpg" width="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies 💤
+ - `get: ^4.6.6`
+ - `shared_preferences: ^2.2.2`
